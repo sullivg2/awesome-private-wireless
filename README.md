@@ -24,6 +24,10 @@
 * [Magma](https://www.magmacore.org/) - Magma is a software-centric distributed mobile packet core, advanced network automation and management tools, and ability to federate with existing LTE networks
 * [Aether](https://aetherproject.org/) - Aether is an open source platform optimized for multi-cloud deployments, and simultaneous support for wireless connectivity over licensed, unlicensed and lightly-licensed (CBRS) spectrum
 * [OAI 5G Core](https://openairinterface.org/oai-5g-core-network-project/) - The scope of the Open Air Interface (OAI) 5G Core CN project developments is to deliver a 3GPP compliant 5G Core Network under the OAI Public License V1.1.
+* [NextEPC](https://nextepc.com/) - NextEPC is an Open Source implementation of the 4G/5G 3GPP core network. NextEPC includes the Mobility Management Entity (MME), Serving Gateway (SGW), Packet Data Network Gateway (PGW), Home Subscriber Server (HSS), and Policy and Charging Rules Functions (PCRF).
+* [Open5GS](https://open5gs.org/) - Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for testing purposes and is implemented in Node.JS and React.
+
+
 
 ## Open Source RAN
 
