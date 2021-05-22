@@ -52,6 +52,8 @@
 * [Twilio Programmable Wireless](https://www.twilio.com/wireless) - Programmable Wireless delivers IoT connectivity that scales to the enterprise, and serves developers all over the world. Control, analyze, and monitor cellular connectivity from your Twilio Console or via the Twilio API.
 *  [Hologram](https://www.hologram.io/) - The easiest to use cellular platform for IoT. Connect your entire fleet anywhere, on every network, all powered from a single SIM card.
 *  [Monogoto](https://monogoto.io/) - Worldwide IoT and M2M connectivity, allowing full visibility, event management and control from the network to the edge devices, with security in first priority.
+*  [Soracom](https://www.soracom.io/) - Soracom helps technology innovators connect devices over cellular to a secure, global network – where there’s no limit to how big you can scale.
+*  [Aeris](https://www.aeris.com/) - Cellular IoT Connectivity and Connected Vehicle Platform
 
 ## Vendor Private Wireless Solutions
 
