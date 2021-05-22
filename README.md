@@ -49,6 +49,7 @@
 
 ## E2E IoT Connectivity Solutions
 
+*  [1NCE](https://1nce.com/en/) - 1NCE offers managed connectivity services for low bandwidth IoT applications.
 *  [Aeris](https://www.aeris.com/) - Cellular IoT Connectivity and Connected Vehicle Platform
 *  [Hologram](https://www.hologram.io/) - The easiest to use cellular platform for IoT. Connect your entire fleet anywhere, on every network, all powered from a single SIM card.
 *  [Monogoto](https://monogoto.io/) - Worldwide IoT and M2M connectivity, allowing full visibility, event management and control from the network to the edge devices, with security in first priority.
