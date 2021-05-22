@@ -27,6 +27,10 @@
 * [OAI 5G Core](https://openairinterface.org/oai-5g-core-network-project/) - The scope of the Open Air Interface (OAI) 5G Core CN project developments is to deliver a 3GPP compliant 5G Core Network under the OAI Public License V1.1.
 * [NextEPC](https://nextepc.com/) - NextEPC is an Open Source implementation of the 4G/5G 3GPP core network. NextEPC includes the Mobility Management Entity (MME), Serving Gateway (SGW), Packet Data Network Gateway (PGW), Home Subscriber Server (HSS), and Policy and Charging Rules Functions (PCRF).
 * [Open5GS](https://open5gs.org/) - Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for testing purposes and is implemented in Node.JS and React.
+* [5GCore](https://github.com/dukl/5gCore) - 5G system writen in python.
+* [free5GC](https://github.com/free5gc/free5gc) - Open source 5G core network base on 3GPP R15.
+* [Internship-5GCN](https://github.com/bubblecounter/Internship-5GCN) - Implementation of RESTful Web Services between 5G Control Plane Nodes(AMF,NRF,SMF,UDM).
+* [open5gs](https://github.com/open5gs/open5gs) - Open5GS is a C-language Open Source implementation of 5GC and EPC, i.e. the core network of NR/LTE network (Release-16).
 
 ## Open Source RAN
 
