@@ -9,7 +9,7 @@
   - [Open Source Mobile Cores](#open-source-mobile-cores)
   - [Open Source RAN](#open-source-ran)
   - [Hardware](#hardware)
-  - [Videos from conferences](#videos-from-conferences)
+  - [IoT Connectivity Solutions](#iot-connectivity-solutions)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -35,11 +35,11 @@
 
 * [LimeSDR](https://limemicro.com/products/boards/limesdr/) - LimeSDR is a low cost, open source, apps-enabled (more on that later) software defined radio (SDR) platform that can be used to support just about any type of wireless communication standard.
 
-## Videos from conferences
+## IoT Connectivity Solutions
 
-* [Serverlessconf](https://www.youtube.com/channel/UCqlcVgk8SkUmve4Kw4xSlgw)
-* [ServerlessDays](https://www.youtube.com/channel/UCYzAnR_SebAmLRkKIbK_YoQ)
-* [GOTO Conferences](https://www.youtube.com/playlist?list=PLEx5khR4g7PJNproQQ4SZ96Qeu-kr-Xbn)
+* [Twilio Programmable Wireless](https://www.twilio.com/wireless) Programmable Wireless delivers IoT connectivity that scales to the enterprise, and serves developers all over the world. Control, analyze, and monitor cellular connectivity from your Twilio Console or via the Twilio API.
+*  [Hologram](https://www.hologram.io/) - The easiest to use cellular platform for IoT. Connect your entire fleet anywhere, on every network, all powered from a single SIM card.
+*  [Monogoto](https://monogoto.io/) - Worldwide IoT and M2M connectivity, allowing full visibility, event management and control from the network to the edge devices, with security in first priority.
 
 ## Contributing
 
