@@ -10,6 +10,7 @@
   - [Open Source RAN](#open-source-ran)
   - [Hardware](#hardware)
   - [E2E IoT Connectivity Solutions](#e2e-iot-connectivity-solutions)
+  - [Vendor Private Wireless Solutions](#vendor-private-wireless-solutions)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -27,13 +28,16 @@
 * [NextEPC](https://nextepc.com/) - NextEPC is an Open Source implementation of the 4G/5G 3GPP core network. NextEPC includes the Mobility Management Entity (MME), Serving Gateway (SGW), Packet Data Network Gateway (PGW), Home Subscriber Server (HSS), and Policy and Charging Rules Functions (PCRF).
 * [Open5GS](https://open5gs.org/) - Open5GS implemented 5GC and EPC using C-language. And WebUI is provided for testing purposes and is implemented in Node.JS and React.
 
-
-
 ## Open Source RAN
 
 * [Open RAN](https://telecominfraproject.com/openran/) - The Open RAN Project Group is an initiative to define and build 2G, 3G, 4G, and 5G RAN solutions based on general-purpose vendor-neutral hardware, open interfaces and software.
 * [ORAN Alliance](https://www.o-ran.org/about) - O-RAN ALLIANCE’s mission is to re-shape the RAN industry towards more intelligent, open, virtualised and fully interoperable mobile networks.
 * [srsRAN](https://www.srsran.com/) - Open-source 4G and 5G software radio suite developed by Software Radio Systems (SRS).
+* [free5GRAN](https://github.com/free5G/free5GRAN) - free5GRAN is an open-source 5G RAN stack.
+* [gnbsim](https://github.com/hhorai/gnbsim) - gnbsim is a 5G SA gNB/UE simulator for testing 5GC system.
+* [OAI-RAN](https://gitlab.eurecom.fr/oai/openairinterface5g/) - The project implements 4G LTE and 5G Radio Access Network. Both NodeB and User Equipment (UE) are implemented.
+* [pfm](https://github.com/arv-sajeev/pfm) - DPDK implementation of a prototype on gNB-CU-UP.
+* [UERANSIM](https://github.com/aligungr/UERANSIM) - Open source 5G UE and RAN (gNodeB) implementation. 
 
 ## Hardware
 
@@ -41,9 +45,15 @@
 
 ## E2E IoT Connectivity Solutions
 
-* [Twilio Programmable Wireless](https://www.twilio.com/wireless) Programmable Wireless delivers IoT connectivity that scales to the enterprise, and serves developers all over the world. Control, analyze, and monitor cellular connectivity from your Twilio Console or via the Twilio API.
+* [Twilio Programmable Wireless](https://www.twilio.com/wireless) - Programmable Wireless delivers IoT connectivity that scales to the enterprise, and serves developers all over the world. Control, analyze, and monitor cellular connectivity from your Twilio Console or via the Twilio API.
 *  [Hologram](https://www.hologram.io/) - The easiest to use cellular platform for IoT. Connect your entire fleet anywhere, on every network, all powered from a single SIM card.
 *  [Monogoto](https://monogoto.io/) - Worldwide IoT and M2M connectivity, allowing full visibility, event management and control from the network to the edge devices, with security in first priority.
+
+## Vendor Private Wireless Solutions
+
+* [FreedomFI](https://freedomfi.com/) - FreedomFi build cost efficient PrivateLTE networks using commodity hardware, open source software and CBRS shared spectrum.
+* [Federated Wireless - Connectivity-as-a-Service](https://www.federatedwireless.com/caas/) - The first 4G/5G private wireless solution offered as an end-to-end managed service. Now orderable through cloud marketplaces.
+* [Celona](https://www.celona.io/) - Celona, the enterprise 5G company, is focused on accelerating the adoption of business-critical apps on enterprise wireless and helping organizations implement a new generation of digital business initiatives.
 
 ## Contributing
 
