@@ -6,8 +6,8 @@
 - [awesome-private-wireless](#awesome-private-wireless)
   - [Table of contents](#table-of-contents)
   - [What is private wireless network](#what-is-private-wireless-network)
-  - [All in one solutions](#all-in-one-solutions)
-  - [Hosting and code execution in the cloud](#hosting-and-code-execution-in-the-cloud)
+  - [Open Source Mobile Cores](#open-source-mobile-cores)
+  - [Open Source RAN](#open-source-ran)
   - [Isomorphic Engines](#isomorphic-engines)
   - [Frameworks](#frameworks)
   - [Security](#security)
@@ -35,15 +35,16 @@
 
 [Fierce Telecom: What is a private wireless network?](https://www.fiercewireless.com/private-wireless/what-a-private-wireless-network#:~:text=A%20private%20wireless%20network%20provides,elements%20as%20a%20public%20network.)
 
-## All in one solutions
+## Open Source Mobile Cores
 
-* ~~[1Backend](https://1backend.com)~~ - A complete platform with a strong focus on application composability, type safe APIs and client library generation.
-* [AppDrag](https://appdrag.com) - Cloud Backend with SQL database and serverless API builder, Cloud CMS with domain management and email marketing tools
+* [Magma](https://www.magmacore.org/) - Magma is a software-centric distributed mobile packet core, advanced network automation and management tools, and ability to federate with existing LTE networks
+* [Aether](https://aetherproject.org/) - Aether is an open source platform optimized for multi-cloud deployments, and simultaneous support for wireless connectivity over licensed, unlicensed and lightly-licensed (CBRS) spectrum
+* [OAI 5G Core](https://openairinterface.org/oai-5g-core-network-project/) - The scope of the Open Air Interface (OAI) 5G Core CN project developments is to deliver a 3GPP compliant 5G Core Network under the OAI Public License V1.1.
 
-## Hosting and code execution in the cloud
+## Open Source RAN
 
-* [FaaStRuby](https://faastruby.io) - Serverless Software Development Platform for Ruby and Crystal developers.
-* [Amazon Lambda](https://aws.amazon.com/lambda) - Run code without thinking about servers. Pay for only the compute time you consume.
+* [Open RAN](https://telecominfraproject.com/openran/) - The Open RAN Project Group is an initiative to define and build 2G, 3G, 4G, and 5G RAN solutions based on general-purpose vendor-neutral hardware, open interfaces and software.
+* [ORAN Alliance](https://www.o-ran.org/about) - O-RAN ALLIANCE’s mission is to re-shape the RAN industry towards more intelligent, open, virtualised and fully interoperable mobile networks.
   
 ## Isomorphic Engines
 
