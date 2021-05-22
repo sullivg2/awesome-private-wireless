@@ -9,7 +9,7 @@
   - [Open Source Mobile Cores](#open-source-mobile-cores)
   - [Open Source RAN](#open-source-ran)
   - [Hardware](#hardware)
-  - [IoT Connectivity Solutions](#iot-connectivity-solutions)
+  - [E2E IoT Connectivity Solutions](#e2e-iot-connectivity-solutions)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -39,7 +39,7 @@
 
 * [LimeSDR](https://limemicro.com/products/boards/limesdr/) - LimeSDR is a low cost, open source, apps-enabled (more on that later) software defined radio (SDR) platform that can be used to support just about any type of wireless communication standard.
 
-## IoT Connectivity Solutions
+## E2E IoT Connectivity Solutions
 
 * [Twilio Programmable Wireless](https://www.twilio.com/wireless) Programmable Wireless delivers IoT connectivity that scales to the enterprise, and serves developers all over the world. Control, analyze, and monitor cellular connectivity from your Twilio Console or via the Twilio API.
 *  [Hologram](https://www.hologram.io/) - The easiest to use cellular platform for IoT. Connect your entire fleet anywhere, on every network, all powered from a single SIM card.
